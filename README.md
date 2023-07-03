@@ -4,7 +4,7 @@
 ## Language Used 👇
 - Kotlin
 
-## Quesitons 👇
+## Questions 👇
 ### 1)
 - Create an ArrayList with 5 names.
 - Ask the user to enter 3 names, separated by commas.
